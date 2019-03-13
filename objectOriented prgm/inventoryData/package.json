@@ -1,0 +1,19 @@
+{
+  "name": "hema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^11.11.0",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.6",
+    "typescript": "^3.3.3333",
+    "typescript-validator": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

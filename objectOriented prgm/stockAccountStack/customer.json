@@ -1,0 +1,12 @@
+[
+    {
+        "name": "insta",
+        "share": 502,
+        "price": 900
+    },
+    {
+        "name": "amazon",
+        "share": 200,
+        "price": 600
+    }
+]

@@ -1,0 +1,76 @@
+{
+    "Person": [
+        {
+            "Name": "jyothi",
+            "LastName": "parva",
+            "Address": {
+                "Street": "bydoor",
+                "City": "behalli",
+                "State": "karnataka",
+                "Nation": "india",
+                "Zip": "577418",
+                "PhoneNum": "9874566112"
+            }
+        },
+        {
+            "Name": "sanketh",
+            "LastName": "bs",
+            "Address": {
+                "Street": "03",
+                "City": "bangalore",
+                "State": "karanataka",
+                "Nation": "indian",
+                "Zip": "577418",
+                "PhoneNum": "9880517297"
+            }
+        },
+        {
+            "Name": "kavya",
+            "LastName": "shre",
+            "Address": {
+                "Street": "29",
+                "City": "mumbai",
+                "State": "karanataka",
+                "Nation": "indian",
+                "Zip": "577418",
+                "PhoneNum": "9845414358"
+            }
+        },
+        {
+            "Name": "Gowri",
+            "LastName": "kashi",
+            "Address": {
+                "Street": "10",
+                "City": "kashi",
+                "State": "uttarapradesh",
+                "Nation": "india",
+                "Zip": "000011",
+                "PhoneNum": "7894561230"
+            }
+        },
+        {
+            "Name": "varsha",
+            "LastName": "kumar",
+            "Address": {
+                "Street": "12",
+                "City": "bangalore",
+                "State": "karnataka",
+                "Nation": "india",
+                "Zip": "560006",
+                "PhoneNum": "9845414358"
+            }
+        },
+        {
+            "Name": "getha",
+            "LastName": "anjali",
+            "Address": {
+                "Street": "www",
+                "City": "www",
+                "State": "wwww",
+                "Nation": "indian",
+                "Zip": "234561",
+                "PhoneNum": "1212121212"
+            }
+        }
+    ]
+}

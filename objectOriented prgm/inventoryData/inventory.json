@@ -1,0 +1,58 @@
+{
+    "Rice": [
+        {
+            "Name": "BrownRice",
+            "weight": 10,
+            "price": 45
+        },
+        {
+            "Name": "WehaniRice",
+            "weight": 15,
+            "price": 62
+        },
+        {
+            "Name": "SproutedRice",
+            "weight": 17,
+            "price": 70
+        },
+        {
+            "Name": "JasmineRice",
+            "weight": 20,
+            "price": 88
+        }
+    ],
+    "Wheat": [
+        {
+            "Name": "BuckWheat",
+            "weight": 12,
+            "price": 30
+        },
+        {
+            "Name": "BulgurWheat",
+            "weight": 8,
+            "price": 35
+        },
+        {
+            "Name": "WholeWheat",
+            "weight": 19,
+            "price": 55
+        }
+    ],
+    "Pulses": [
+        {
+            "Name": "kidneBean",
+            "weight": 12,
+            "price": 25
+        },
+        {
+            "Name": "BlackTurtleBean",
+            "weight": 15,
+            "price": 34
+        },
+        {
+            "Name": "ChickPeas",
+            "weight": 7,
+            "price": 59
+        }
+    ]
+}

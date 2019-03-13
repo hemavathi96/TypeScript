@@ -1,0 +1,29 @@
+{
+    "Stock": [
+        {
+            "shareName": "transworld",
+            "noOfshares": 150,
+            "price": 2600
+        },
+        {
+            "shareName": "torryHarris",
+            "noOfshares": 190,
+            "price": 120
+        },
+        {
+            "shareName": "TCS",
+            "noOfshares": 25,
+            "price": 3000
+        },
+        {
+            "shareName": "HEl",
+            "noOfshares": 10,
+            "price": 2000
+        },
+        {
+            "shareName": "HCL",
+            "noOfshares": 12,
+            "price": 300
+        }
+    ]
+}

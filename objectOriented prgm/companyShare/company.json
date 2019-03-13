@@ -1,0 +1,34 @@
+{
+    "company":[
+        {
+            "name": "emporoto",
+            "symbol": "E",
+            "share": 21,
+            "price": 300
+        },
+        {
+            "name": "BridgeLabz",
+            "symbol": "B",
+            "share": 25,
+            "price": 10000
+        },
+        {
+            "name": "Amazon",
+            "symbol": "A",
+            "share": 30,
+            "price": 8000
+        },
+        {
+            "name": "google",
+            "symbol": "G",
+            "share": 19,
+            "price": 9000
+        },
+        {
+            "name": "NIIT",
+            "symbol": "N",
+            "share": 9,
+            "price": 900
+        }
+    ]
+}

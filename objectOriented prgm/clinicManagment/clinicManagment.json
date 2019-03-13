@@ -1,0 +1,109 @@
+{
+    "Doctor": [
+        {
+            "name": "Dr.rani",
+            "Id": "al123",
+            "specialisation": "cardiologist",
+            "availability": "AM"
+        },
+        {
+            "name": "Dr.swathi",
+            "Id": "al14ec44",
+            "specialisation": "nerologist",
+            "availability": "Both"
+        },
+        {
+            "name": "Dr.Kavana",
+            "Id": "D203",
+            "specialisation": "Ophthalmologist ",
+            "availability": "Both"
+        }
+    ],
+    "Patient": [
+        {
+            "name": "chandru",
+            "Id": "h77",
+            "phoneNumber": 78745454554,
+            "age": 45,
+            "appointmentFrom": "Dr.pandith",
+            "onTheDayOf": 28
+        },
+        {
+            "name": "raju",
+            "Id": "b557",
+            "phoneNumber": 7020111245,
+            "age": 25,
+            "appointmentFrom": "Dr.kavana",
+            "onTheDayOf": 28
+        },
+        {
+            "name": "Sandeep",
+            "Id": "P002",
+            "phoneNumber": 8899662277,
+            "age": 47,
+            "appointmentFrom": "Dr.rani",
+            "onTheDayOf": 28
+        },
+        {
+            "name": "kavyashree",
+            "Id": "d9310",
+            "phoneNumber": 7026154214,
+            "age": 21,
+            "appointmentFrom": "Dr.Kavana",
+            "onTheDayOf": 28
+        },
+        {
+            "name": "aish",
+            "Id": 27776,
+            "phoneNumber": 7815287548,
+            "age": 29,
+            "appointmentFrom": "Dr.Pandith",
+            "onTheDayOf": 28
+        },
+        {
+            "name": "karan",
+            "Id": 87734,
+            "phoneNumber": 8970253512,
+            "age": 52,
+            "appointmentFrom": "Dr.Prasad gudde",
+            "onTheDayOf": 28
+        },
+        {
+            "name": "jyothi",
+            "Id": 87082,
+            "phoneNumber": 7815454554,
+            "age": 45,
+            "appointmentFrom": "Dr.swathi",
+            "onTheDayOf": 29
+        },
+        {
+            "name": "kavya",
+            "Id": 300,
+            "phoneNumber": 8970595625,
+            "age": 21,
+            "appointmentFrom": "Dr.swathi",
+            "onTheDayOf": 30
+        },
+        {
+            "Name": "rr",
+            "ID": 525,
+            "mobNo": "1111111",
+            "age": "21",
+            "appoinntment_To": "Dr.swathi"
+        },
+        {
+            "Name": "ee",
+            "ID": 312,
+            "mobNo": "121",
+            "age": "21",
+            "appoinntment_To": "Dr.swathi"
+        },
+        {
+            "Name": "chandru",
+            "ID": 956,
+            "mobNo": "111",
+            "age": "111",
+            "appoinntment_To": "Dr.rani"
+        }
+    ]
+}

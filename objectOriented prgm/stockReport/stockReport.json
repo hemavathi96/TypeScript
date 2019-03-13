@@ -1,0 +1,25 @@
+
+{
+    "Stock": [
+        {
+            "stockName": "TCS",
+            "shares": 18,
+            "price": 109
+        },
+        {
+            "stockName": "samsung",
+            "shares": 100,
+            "price": 1200
+        },
+        {
+            "stockName": "nokia",
+            "shares": 120,
+            "price": 2000
+        },
+        {
+            "stockName": "infosys",
+            "shares": 50,
+            "price": 5000
+        }
+    ]
+}
